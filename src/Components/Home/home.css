@@ -1,0 +1,23 @@
+.homebgimg
+{
+background-image: url("https://images.unsplash.com/photo-1499209974431-9dddcece7f88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3VjY2Vzc3xlbnwwfHwwfHw%3D&w=1000&q=80");
+height: 100vh;
+background-size: cover;
+}
+
+.homehead
+{
+    color: purple;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.butt2
+{
+    background-color: purple;
+}
+
+.maindiv
+{
+    text-align: center;
+}
